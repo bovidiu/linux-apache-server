@@ -20,7 +20,3 @@ apt-get install php5-mcrypt
 
 
 /etc/init.d/apache2 restart
-
-echo 'Thank you for using my script.';
-
-firefox http://www.osbwebsolutions.com
