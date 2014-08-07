@@ -17,6 +17,13 @@ After the instalation is compleated apache will restart.
 How to use ?
 ==============
 
+First login as admin in terminal, by typing the following command: 
+
+<code>sudo -s </code>
+
+Input your password and then follow the instruction below.
+
+
 If you dont have PERL install, open your terminal and type:
 
 <code>apt-get install perl </code>
