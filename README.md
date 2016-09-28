@@ -38,3 +38,10 @@ or
 
 And follow the instruction on screen.
 
+Security
+========
+
+Install the following:
+1. CSF
+2. LFD
+3. Maldet
